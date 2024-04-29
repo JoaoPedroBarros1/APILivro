@@ -8,7 +8,7 @@ db = SQLAlchemy(app)
 
 
 from view import *
-from models import Livro
+from models import Livro, Usuario
 
 
 if __name__ == '__main__':
